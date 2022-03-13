@@ -34,8 +34,14 @@ Dan hasilnya ada jarak antar paragraf, ada atribut paragraf, ada gambar seperti 
 
 Cara menambahkan hyperlink :
 
-![
+![screenshot(250).png](https://github.com/asriliya/Lab1Web/blob/main/screenshot/Screenshot%20(250).png)
 
+Dan hasilnya akan seperti ini 
 
+![screenshot(255).png](https://github.com/asriliya/Lab1Web/blob/main/screenshot/Screenshot%20(255).png)
+
+Dan tampilan link kedua seperti ini 
+
+![screenshot(253).png](https://github.com/asriliya/Lab1Web/blob/main/screenshot/Screenshot%20(253).png)
 
 Sekian dari saya. Semoga bermanfaat:)
