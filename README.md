@@ -28,8 +28,14 @@ Kemudian selanjutnya, buka file tersebut pada web browser misalnya Mozilla Firef
 
 Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser, lihat hasilnya.
 
-Dan hasilnya ada jarak antar paragraf, ada atribut paragraf seperti berikut, dan amati perubahanya.
+Dan hasilnya ada jarak antar paragraf, ada atribut paragraf, ada gambar seperti berikut, dan amati perubahanya.
 
-![screenshot(
+![screenshot(248).png](https://github.com/asriliya/Lab1Web/blob/main/screenshot/Screenshot%20(248).png)
 
-sekian dari saya -Arip hidayattuloh-
+Cara menambahkan hyperlink :
+
+![
+
+
+
+Sekian dari saya. Semoga bermanfaat:)
